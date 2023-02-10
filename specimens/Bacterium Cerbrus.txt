@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Cerbrus","atmosphere":"water,so2","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":3732200}

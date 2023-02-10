@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Alcyoneum","atmosphere":"ammonia","bodyType":"rocky,hmc","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":3678100}

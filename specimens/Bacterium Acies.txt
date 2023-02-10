@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Acies","atmosphere":"neon","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":1500000}

@@ -1,0 +1,1 @@
+{"genus":"Tussock","species":"Pennatis","atmosphere":"co2","bodyType":"rocky","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":1832900}

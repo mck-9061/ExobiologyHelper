@@ -1,0 +1,1 @@
+{"genus":"Stratum","species":"Cucumisis","atmosphere":"co2,so2","bodyType":"rocky","gravityLessThan":"","temperatureRange":">190","distanceHigherThan":"","volcanism":"","starType":"","value":16777215}

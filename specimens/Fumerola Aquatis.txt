@@ -1,0 +1,1 @@
+{"genus":"Fumerola","species":"Aquatis","atmosphere":"","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"water","starType":"","value":10432700}

@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Omentum","atmosphere":"neon","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"nitrogen,ammonia","starType":"","value":8226200}

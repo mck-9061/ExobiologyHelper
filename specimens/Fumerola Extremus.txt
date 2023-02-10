@@ -1,0 +1,1 @@
+{"genus":"Fumerola","species":"Extremus","atmosphere":"","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"silicate,iron","starType":"","value":16777215}

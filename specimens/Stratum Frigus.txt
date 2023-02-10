@@ -1,0 +1,1 @@
+{"genus":"Stratum","species":"Frigus","atmosphere":"co2,so2","bodyType":"rocky","gravityLessThan":"","temperatureRange":">190","distanceHigherThan":"","volcanism":"","starType":"","value":5287900}

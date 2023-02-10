@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Scopulum","atmosphere":"neon","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"carbon,methane","starType":"","value":8633800}

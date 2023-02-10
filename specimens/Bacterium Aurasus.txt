@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Aurasus","atmosphere":"co2","bodyType":"rocky,hmc","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":2414700}

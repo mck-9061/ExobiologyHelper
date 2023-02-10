@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Vesicula","atmosphere":"argon","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":1725400}

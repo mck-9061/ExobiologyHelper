@@ -1,0 +1,1 @@
+{"genus":"Osseus","species":"Pumice","atmosphere":"argon,methane","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":6085800}

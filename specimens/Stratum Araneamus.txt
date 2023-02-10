@@ -1,0 +1,1 @@
+{"genus":"Stratum","species":"Araneamus","atmosphere":"so2","bodyType":"rocky","gravityLessThan":"","temperatureRange":">165","distanceHigherThan":"","volcanism":"","starType":"","value":4989600}

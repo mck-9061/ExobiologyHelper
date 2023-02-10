@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Nebulus","atmosphere":"helium","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":9116600}

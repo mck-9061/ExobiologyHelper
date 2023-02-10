@@ -1,0 +1,1 @@
+{"genus":"Electricae","species":"Pluma","atmosphere":"helium,neon,argon","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"A","value":10432700}

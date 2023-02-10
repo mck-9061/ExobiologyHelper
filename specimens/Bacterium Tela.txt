@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Tela","atmosphere":"","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"helium,iron,silicate,ammonia","starType":"","value":4173100}

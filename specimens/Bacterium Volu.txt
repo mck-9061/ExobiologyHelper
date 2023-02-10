@@ -1,0 +1,1 @@
+{"genus":"Bacterium","species":"Volu","atmosphere":"oxygen","bodyType":"","gravityLessThan":"","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":12323000}

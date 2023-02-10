@@ -1,0 +1,1 @@
+{"genus":"Cactoida","species":"Peperatus","atmosphere":"ammonia","bodyType":"rocky,hmc","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":5044900}

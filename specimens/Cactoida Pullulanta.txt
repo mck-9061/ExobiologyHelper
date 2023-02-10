@@ -1,0 +1,1 @@
+{"genus":"Cactoida","species":"Pullulanta","atmosphere":"co2","bodyType":"rocky,hmc","gravityLessThan":"0.27","temperatureRange":"180-195","distanceHigherThan":"","volcanism":"","starType":"","value":6844700}

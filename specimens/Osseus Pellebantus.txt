@@ -1,0 +1,1 @@
+{"genus":"Osseus","species":"Pellebantus","atmosphere":"co2","bodyType":"rocky,hmc","gravityLessThan":"0.27","temperatureRange":"190-195","distanceHigherThan":"","volcanism":"","starType":"","value":14698600}

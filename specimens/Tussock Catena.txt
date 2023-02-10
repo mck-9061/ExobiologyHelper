@@ -1,0 +1,1 @@
+{"genus":"Tussock","species":"Catena","atmosphere":"ammonia","bodyType":"rocky","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"","starType":"","value":3864400}

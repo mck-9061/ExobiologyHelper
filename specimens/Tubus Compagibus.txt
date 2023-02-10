@@ -1,0 +1,1 @@
+{"genus":"Tubus","species":"Compagibus","atmosphere":"co2","bodyType":"rocky","gravityLessThan":"0.15","temperatureRange":"160-190","distanceHigherThan":"","volcanism":"","starType":"","value":12323000}

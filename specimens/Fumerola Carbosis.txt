@@ -1,0 +1,1 @@
+{"genus":"Fumerola","species":"Carbosis","atmosphere":"","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"carbon,methane","starType":"","value":10432700}

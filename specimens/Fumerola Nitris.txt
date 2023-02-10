@@ -1,0 +1,1 @@
+{"genus":"Fumerola","species":"Nitris","atmosphere":"","bodyType":"","gravityLessThan":"0.27","temperatureRange":"","distanceHigherThan":"","volcanism":"nitrogen,ammonia","starType":"","value":11982000}
