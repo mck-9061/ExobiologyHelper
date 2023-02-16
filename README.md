@@ -6,3 +6,12 @@
 - Type "end" or hit ctrl+c to close when you're finished
 
 Feel free to open an issue on GitHub if you find a planet with a species that isn't listed.
+
+# Example
+- After FSSSing all the planets in the system, planets with bio signs are displayed:<br>
+![Bio signs](https://i.imgur.com/emWVA0U.png)
+
+- After DSSing a planet, the possible species are displayed:<br>
+![Possible species](https://i.imgur.com/DC5H6Du.png)
+
+- This planet appears likely to have a high-value Tubus species, so it's worth visiting (if it hadn't already been discovered).
