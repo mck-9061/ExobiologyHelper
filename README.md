@@ -5,4 +5,4 @@
 - Hit enter again after scanning a planet to get a list of possible species and their expected values
 - Type "end" or hit ctrl+c to close when you're finished
 
-Let me know on Discord at mck#9061 if you find a planet with a species that isn't listed.
+Feel free to open an issue on GitHub if you find a planet with a species that isn't listed.
